@@ -1,0 +1,1 @@
+update ir_ui_view set arch_db =replace(arch_db, 'Odoo POS', 'AV POS') where id = 896;
