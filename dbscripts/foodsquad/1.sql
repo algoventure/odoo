@@ -26,4 +26,4 @@ SET arch_db='<?xml version="1.0"?>
     </t>
 
     '
-WHERE id=191;
+WHERE key = 'web.layout';
