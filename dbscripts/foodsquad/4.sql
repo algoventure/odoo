@@ -1,0 +1,1 @@
+update ir_actions set help = replace(help, 'Odoo employee', 'employee') where help like '%Odoo employee%';
